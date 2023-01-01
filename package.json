@@ -23,7 +23,7 @@
     "next-plugin-preact": "^3.0.3",
     "next-seo": "^4.28.1",
     "preact": "^10.5.5",
-    "preact-render-to-string": "^5.1.11",
+    "preact-render-to-string": "^5.2.6",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
     "react-icons": "^4.3.1",
