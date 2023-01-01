@@ -22,7 +22,7 @@
     "next-mdx-remote": "^3.0.8",
     "next-plugin-preact": "^3.0.3",
     "next-seo": "^4.28.1",
-    "preact": "^10.5.5",
+    "preact": "^10.11.3",
     "preact-render-to-string": "^5.1.11",
     "react": "npm:@preact/compat",
     "react-dom": "npm:@preact/compat",
