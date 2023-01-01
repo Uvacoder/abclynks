@@ -28,7 +28,7 @@
     "react-dom": "npm:@preact/compat",
     "react-icons": "^4.3.1",
     "react-ssr-prepass": "npm:preact-ssr-prepass@^1.1.2",
-    "sass": "^1.43.5",
+    "sass": "^1.56.2",
     "tinycolor2": "^1.4.2"
   }
 }
